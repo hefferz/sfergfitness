@@ -1,12 +1,28 @@
 <!doctype html>
 <html>
 <head>
-<title> Sean Ferguson Personal Training Vancouver Fitness Health</title>
+<title> Sean Ferguson Personal Training Professional Vancouver</title>
 <link rel="stylesheet" href="sfergstyle.css" type="text/css" />
 <meta charset="utf-8">
+<meta name="description" content="Sean Ferguson is a professional personal trainer and fitness/health aficionado based out of North Vancouver, BC.">
 </head>
 <body>
-<div> </div>
-<div> </div>
+
+<div id="mainbanner"> 
+<h1> Sean Ferguson Personal Training Fitness & Health </h1>
+<img src ="thegracchen.jpg" alt="Sean" />
+</div>
+
+<div id="linedivider"> </div>
+
+<div id="mainbody">
+<h2> Bio </h2>
+<p> Insert Bio Here </p>
+<h2> Contact Info </h2>
+<p> Insert Contact Info Here </p>
+ </div>
+
+ <div id="socialmedia" > </div>
+ 
 </body>
 </html>
