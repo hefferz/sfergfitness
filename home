@@ -16,9 +16,11 @@
 </head>
 <body>
 <div id="pagewrap">
-<div id="mainbanner"> 
+<div id="mainbanner">
+<div id="bannercontent"> 
 <img src ="sean.jpg" alt="Sean" />
 <img src ="seantext.jpg" alt="Sean Ferguson Personal Training and Fitness/Health Expert">
+</div>
 </div>
 
 <div id="divider"> </div>
@@ -41,6 +43,8 @@
 
  </div>
 
+ <br>
+ 
  <div id="socialmedia" >
  <img src ="fb.jpg" alt="Facebook" />
  <img src ="tw.jpg" alt="Twitter" />
