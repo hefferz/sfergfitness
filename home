@@ -15,22 +15,39 @@
 <link rel="stylesheet" href="sfergstyle.css" type="text/css" />
 </head>
 <body>
-
+<div id="pagewrap">
 <div id="mainbanner"> 
-<h1> Sean Ferguson Personal Training Fitness & Health </h1>
 <img src ="sean.jpg" alt="Sean" />
+<img src ="seantext.jpg" alt="Sean Ferguson Personal Training and Fitness/Health Expert">
 </div>
 
-<div id="linedivider"> </div>
+<div id="divider"> </div>
 
 <div id="mainbody">
-<h2> Bio </h2>
-<p> Insert Bio Here </p>
-<h2> Contact Info </h2>
-<p> Insert Contact Info Here </p>
+
+<div id ="maintext">
+<em> Sean Ferguson is a Canadian Certified Personal Trainer based out of North Vancouver, BC. </em>
+</div>
+
+<div id="textleft"> 
+<p> Personal Training </p>
+</div>
+<div id="photosright">
+<img src ="1.jpg" alt="1" />
+<img src ="2.jpg" alt="2" />
+<img src ="3.jpg" alt="3" />
+<img src ="4.jpg" alt="4" />
+</div>
+
  </div>
 
- <div id="socialmedia" > </div>
- 
+ <div id="socialmedia" >
+ <img src ="fb.jpg" alt="Facebook" />
+ <img src ="tw.jpg" alt="Twitter" />
+ <img src ="ig.jpg" alt="Instagram" />
+ <img src ="gp.jpg" alt="Google Plus" />
+ <img src ="kik.jpg" alt="Kik" />
+ </div>
+ </div>
 </body>
 </html>
