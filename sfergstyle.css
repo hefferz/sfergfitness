@@ -4,6 +4,19 @@ body {
 	background-size: cover;
 }
 
-mainbanner {
-	border-style: solid;
+#pagewrap {
+	background-color: #ffffff;
+}
+
+#mainbanner {
+	width: 100%
+	background-color: #ffffff;
+}
+
+#mainbody {
+	background-color: #000000;
+}
+
+#textleft, #photosright {
+	display: inline-block;
 }
