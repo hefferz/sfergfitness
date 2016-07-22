@@ -50,12 +50,14 @@
 
  <br>
  
+ <div id="footer">
  <div id="socialmedia" >
  <img src ="fb.jpg" alt="Facebook" />
  <img src ="tw.jpg" alt="Twitter" />
  <img src ="ig.jpg" alt="Instagram" />
  <img src ="gp.jpg" alt="Google Plus" />
  <img src ="kik.jpg" alt="Kik" />
+ </div>
  </div>
  </div>
 </body>
