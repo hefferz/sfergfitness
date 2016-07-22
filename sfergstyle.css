@@ -1,22 +1,38 @@
 
 body {
-    background-image: url("seantransparent.jpg");
+    /*background-image: url("seantransparent.jpg");*/
+	background-color: #000000;
 	background-size: cover;
 }
 
 #pagewrap {
+	width: 100%;
 	background-color: #ffffff;
 }
 
 #mainbanner {
-	width: 100%
-	background-color: #ffffff;
+	height: 120px;
+	width: 100%;
+	background-color: #fffff;
 }
 
 #mainbody {
-	background-color: #000000;
+	background-color: #ffffff;
 }
 
 #textleft, #photosright {
 	display: inline-block;
+}
+
+#mainbody {
+	
+}
+
+#footer {
+	background-color: #ffffff;
+}
+
+#divider {
+	height: 10px;
+	background-color: #000000;
 }
